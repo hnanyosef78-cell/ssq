@@ -1,0 +1,142 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "65c5e3b9387530f22be582b2b91a89ae"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "ae95b7cf8174749c4a2feab14b8f8691"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "1606840388a812df6908dff9925745b5"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "0474bce132e69843236791ae939ee77c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "bea9c7c908310558f071b4f7dcffab08"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "97a4557cebbd7825105968c9e1fd954c"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "f9c828b177b5876c2e585b1df3c989ed"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "sofa-cleaning-in-dubai-and-the-care-of-upholstered-furniture.html",
+        "type": "file",
+        "md5": "386f5b1a6641d61bfcbd388e9852bb35"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "b6cf4516a4128fa80f06a301da26f43e"
+    },
+    {
+        "path": "the-growing-demand-for-sofa-cleaning-in-dubai-a-hygiene-essential.html",
+        "type": "file",
+        "md5": "f032513d0f67af3cbc5ffbff4afe33b5"
+    },
+    {
+        "path": "the-growing-demand-for-sofa-cleaning-in-dubai-a-lifestyle-necessity.html",
+        "type": "file",
+        "md5": "da5c4cc1e3e1a2a0e69b58d422f16af5"
+    }
+]
